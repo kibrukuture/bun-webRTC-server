@@ -1,4 +1,4 @@
-# backend
+# bun webrtc server
 
 To install dependencies:
 
